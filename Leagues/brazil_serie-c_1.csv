@@ -1,0 +1,3 @@
+team_home,team_away,home_expectancy_op,away_expectancy_op,success_op,error_op,team_home,team_away,home_expectancy_cls,away_expectancy_cls,success_cls,error_cls
+Amazonas,Brusque,1.2201707373437232,0.729877462926243,True,1.0970989449098632e-10,Amazonas,Brusque,1.2511411508406136,0.689146062550579,True,1.1636162539756244e-10
+Brusque,Amazonas,1.1850552553615479,0.7438857175040298,True,1.3151892823800796e-10,Brusque,Amazonas,1.1270138649741017,0.6768418834598852,True,2.699980412639121e-10
