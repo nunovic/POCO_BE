@@ -1,0 +1,2 @@
+team_home,team_away,home_expectancy_op,away_expectancy_op,success_op,error_op,team_home,team_away,home_expectancy_cls,away_expectancy_cls,success_cls,error_cls
+Almirante Brown,Ind. Rivadavia,1.098795600963928,0.9531751977562721,True,8.477948588004893e-12,Almirante Brown,Ind. Rivadavia,0.7638459098614295,0.8888859073868068,True,8.451245426054078e-11
