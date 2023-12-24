@@ -1,86 +1,89 @@
-Country,League,Date,Home,Away,FTHG,FTAG,Pinnacle_HO_Open,Pinnacle_DO_Open,Pinnacle_AO_Open,Pinnacle_HO_Close,Pinnacle_DO_Close,Pinnacle_AO_Close,Pinnacle_Pinnacle_+0.25_AH_A_Close,Pinnacle_Pinnacle_+0.25_AH_A_Open,Pinnacle_Pinnacle_+0.25_AH_H_Close,Pinnacle_Pinnacle_+0.25_AH_H_Open,Pinnacle_Pinnacle_+0.5_AH_A_Close,Pinnacle_Pinnacle_+0.5_AH_A_Open,Pinnacle_Pinnacle_+0.5_AH_H_Close,Pinnacle_Pinnacle_+0.5_AH_H_Open,Pinnacle_Pinnacle_+0.75_AH_A_Close,Pinnacle_Pinnacle_+0.75_AH_A_Open,Pinnacle_Pinnacle_+0.75_AH_H_Close,Pinnacle_Pinnacle_+0.75_AH_H_Open,Pinnacle_Pinnacle_+0_AH_H_Close,Pinnacle_Pinnacle_+0_AH_H_Open,Pinnacle_Pinnacle_-0.25_AH_A_Close,Pinnacle_Pinnacle_-0.25_AH_A_Open,Pinnacle_Pinnacle_-0.25_AH_H_Close,Pinnacle_Pinnacle_-0.25_AH_H_Open,Pinnacle_Pinnacle_-0.5_AH_A_Close,Pinnacle_Pinnacle_-0.5_AH_A_Open,Pinnacle_Pinnacle_-0.5_AH_H_Close,Pinnacle_Pinnacle_-0.5_AH_H_Open,Pinnacle_Pinnacle_-0.75_AH_A_Close,Pinnacle_Pinnacle_-0.75_AH_A_Open,Pinnacle_Pinnacle_-0.75_AH_H_Close,Pinnacle_Pinnacle_-0.75_AH_H_Open,Pinnacle_Pinnacle_-0_AH_A_Close,Pinnacle_Pinnacle_-0_AH_A_Open,Pinnacle_bookmaker,ah_odds
-albania,superliga,2023-08-26,Vllaznia,Kukesi,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-08-26,Egnatia,Skenderbeu,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-08-27,Dinamo Tirana,KF Tirana,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-08-27,Laci,Erzeni,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-01,Erzeni,Vllaznia,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-01,Skenderbeu,Dinamo Tirana,1,0,2.08,2.67,3.19,2.53,2.80,2.51,1.55,1.82,1.56,1.32,1.43,1.58,1.41,1.36,1.40,1.40,1.33,1.34,1.83,1.46,2.15,2.71,2.17,1.78,2.46,2.67,2.44,2.06,2.79,2.76,2.53,2.42,1.81,2.30,Pinnacle,
-albania,superliga,2023-09-02,Teuta,KF Tirana,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-03,Partizani,Laci,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-03,Kukesi,Egnatia,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-13,Egnatia,Erzeni,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-13,Dinamo Tirana,Kukesi,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-14,KF Tirana,Skenderbeu,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-14,Vllaznia,Partizani,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-15,Laci,Teuta,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-17,Erzeni,Dinamo Tirana,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-18,Partizani,Egnatia,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-18,Kukesi,KF Tirana,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-19,Teuta,Skenderbeu,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-19,Laci,Vllaznia,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-22,KF Tirana,Erzeni,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-22,Dinamo Tirana,Partizani,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-23,Egnatia,Laci,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-23,Skenderbeu,Kukesi,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-23,Vllaznia,Teuta,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-27,Erzeni,Skenderbeu,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-27,Vllaznia,Egnatia,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-27,Teuta,Kukesi,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-09-28,Laci,Dinamo Tirana,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-01,Skenderbeu,Partizani,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-01,Egnatia,Teuta,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-02,Kukesi,Erzeni,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-02,Dinamo Tirana,Vllaznia,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-03,KF Tirana,Laci,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-06,Egnatia,Dinamo Tirana,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-07,Vllaznia,KF Tirana,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-08,Teuta,Erzeni,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-08,Partizani,Kukesi,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-08,Laci,Skenderbeu,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-19,Partizani,KF Tirana,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-21,Skenderbeu,Vllaznia,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-22,Dinamo Tirana,Teuta,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-22,Kukesi,Laci,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-23,KF Tirana,Egnatia,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-23,Erzeni,Partizani,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-27,Kukesi,Vllaznia,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-27,Erzeni,Laci,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-28,Teuta,Partizani,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-28,Skenderbeu,Egnatia,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-28,KF Tirana,Dinamo Tirana,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-31,Egnatia,Kukesi,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-10-31,Dinamo Tirana,Skenderbeu,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-01,Vllaznia,Erzeni,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-01,Laci,Partizani,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-01,KF Tirana,Teuta,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-04,Erzeni,Egnatia,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-05,Skenderbeu,KF Tirana,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-05,Kukesi,Dinamo Tirana,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-05,Teuta,Laci,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-06,Partizani,Vllaznia,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-23,KF Tirana,Kukesi,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-23,Egnatia,Partizani,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-23,Dinamo Tirana,Erzeni,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-24,Vllaznia,Laci,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-24,Skenderbeu,Teuta,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-27,Partizani,Dinamo Tirana,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-27,Erzeni,KF Tirana,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-28,Teuta,Vllaznia,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-28,Laci,Egnatia,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-11-28,Kukesi,Skenderbeu,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-02,Skenderbeu,Erzeni,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-02,Egnatia,Vllaznia,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-03,Kukesi,Teuta,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-03,KF Tirana,Partizani,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-03,Dinamo Tirana,Laci,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-07,Partizani,Teuta,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-10,Erzeni,Kukesi,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-10,Vllaznia,Dinamo Tirana,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-10,Laci,KF Tirana,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-11,Teuta,Egnatia,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-11,Partizani,Skenderbeu,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-16,Kukesi,Partizani,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-16,Dinamo Tirana,Egnatia,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-17,Skenderbeu,Laci,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-17,KF Tirana,Vllaznia,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
-albania,superliga,2023-12-17,Erzeni,Teuta,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+Country,League,Date,Home,Away,FTHG,FTAG,Pinnacle_-0.75_AH_H_Open,Pinnacle_-0.75_AH_H_Close,Pinnacle_+0.75_AH_A_Open,Pinnacle_+0.75_AH_A_Close,Pinnacle_-0.5_AH_H_Open,Pinnacle_-0.5_AH_H_Close,Pinnacle_+0.5_AH_A_Open,Pinnacle_+0.5_AH_A_Close,Pinnacle_-0.25_AH_H_Open,Pinnacle_-0.25_AH_H_Close,Pinnacle_+0.25_AH_A_Open,Pinnacle_+0.25_AH_A_Close,Pinnacle_+0_AH_H_Open,Pinnacle_+0_AH_H_Close,Pinnacle_-0_AH_A_Open,Pinnacle_-0_AH_A_Close,Pinnacle_+0.25_AH_H_Open,Pinnacle_+0.25_AH_H_Close,Pinnacle_-0.25_AH_A_Open,Pinnacle_-0.25_AH_A_Close,Pinnacle_+0.5_AH_H_Open,Pinnacle_+0.5_AH_H_Close,Pinnacle_-0.5_AH_A_Open,Pinnacle_-0.5_AH_A_Close,Pinnacle_+0.75_AH_H_Open,Pinnacle_+0.75_AH_H_Close,Pinnacle_-0.75_AH_A_Open,Pinnacle_-0.75_AH_A_Close
+albania,superliga,2023-08-26,Egnatia,Skenderbeu,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-08-26,Vllaznia,Kukesi,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-08-27,Laci,Erzeni,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-08-27,Dinamo Tirana,KF Tirana,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-01,Skenderbeu,Dinamo Tirana,1,0,2.42,2.53,1.4,1.4,2.06,2.44,1.58,1.43,1.78,2.17,1.82,1.55,1.46,1.83,2.3,1.81,1.32,1.56,2.71,2.15,1.36,1.41,2.67,2.46,1.34,1.33,2.76,2.79
+albania,superliga,2023-09-01,Erzeni,Vllaznia,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-02,Teuta,KF Tirana,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-03,Partizani,Laci,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-03,Kukesi,Egnatia,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-13,Egnatia,Erzeni,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-13,Dinamo Tirana,Kukesi,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-14,Vllaznia,Partizani,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-14,KF Tirana,Skenderbeu,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-15,Laci,Teuta,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-17,Erzeni,Dinamo Tirana,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-18,Partizani,Egnatia,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-18,Kukesi,KF Tirana,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-19,Teuta,Skenderbeu,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-19,Laci,Vllaznia,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-22,KF Tirana,Erzeni,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-22,Dinamo Tirana,Partizani,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-23,Egnatia,Laci,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-23,Vllaznia,Teuta,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-23,Skenderbeu,Kukesi,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-27,Vllaznia,Egnatia,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-27,Teuta,Kukesi,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-27,Erzeni,Skenderbeu,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-09-28,Laci,Dinamo Tirana,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-01,Skenderbeu,Partizani,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-01,Egnatia,Teuta,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-02,Kukesi,Erzeni,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-02,Dinamo Tirana,Vllaznia,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-03,KF Tirana,Laci,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-06,Egnatia,Dinamo Tirana,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-07,Vllaznia,KF Tirana,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-08,Laci,Skenderbeu,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-08,Teuta,Erzeni,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-08,Partizani,Kukesi,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-19,Partizani,KF Tirana,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-21,Skenderbeu,Vllaznia,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-22,Kukesi,Laci,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-22,Dinamo Tirana,Teuta,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-23,KF Tirana,Egnatia,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-23,Erzeni,Partizani,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-27,Kukesi,Vllaznia,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-27,Erzeni,Laci,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-28,Teuta,Partizani,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-28,KF Tirana,Dinamo Tirana,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-28,Skenderbeu,Egnatia,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-31,Egnatia,Kukesi,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-10-31,Dinamo Tirana,Skenderbeu,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-01,Laci,Partizani,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-01,KF Tirana,Teuta,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-01,Vllaznia,Erzeni,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-04,Erzeni,Egnatia,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-05,Teuta,Laci,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-05,Skenderbeu,KF Tirana,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-05,Kukesi,Dinamo Tirana,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-06,Partizani,Vllaznia,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-23,KF Tirana,Kukesi,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-23,Egnatia,Partizani,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-23,Dinamo Tirana,Erzeni,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-24,Vllaznia,Laci,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-24,Skenderbeu,Teuta,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-27,Partizani,Dinamo Tirana,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-27,Erzeni,KF Tirana,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-28,Laci,Egnatia,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-28,Teuta,Vllaznia,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-11-28,Kukesi,Skenderbeu,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-02,Skenderbeu,Erzeni,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-02,Egnatia,Vllaznia,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-03,KF Tirana,Partizani,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-03,Dinamo Tirana,Laci,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-03,Kukesi,Teuta,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-07,Partizani,Teuta,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-10,Vllaznia,Dinamo Tirana,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-10,Laci,KF Tirana,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-10,Erzeni,Kukesi,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-11,Teuta,Egnatia,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-11,Partizani,Skenderbeu,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-16,Kukesi,Partizani,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-16,Dinamo Tirana,Egnatia,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-17,Skenderbeu,Laci,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-17,KF Tirana,Vllaznia,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-17,Erzeni,Teuta,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-22,Teuta,Dinamo Tirana,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-22,Vllaznia,Skenderbeu,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+albania,superliga,2023-12-23,Laci,Kukesi,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
